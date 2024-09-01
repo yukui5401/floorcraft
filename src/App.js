@@ -16,8 +16,6 @@ import { FaEdit } from "react-icons/fa";
 
 
 import React, { useState, useEffect } from "react";
-// import { Resizer } from 'react-image-file-resizer';
-
 
 
 function App() {
